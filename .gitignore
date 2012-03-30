@@ -5,3 +5,8 @@
 /griffonw
 /griffonw.bat
 /ReadManifest.launch
+/.settings
+/scripts
+/src
+/test
+/wrapper
